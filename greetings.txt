@@ -1,2 +1,4 @@
 Hola
 Hello
+Ni Hao 
+Salut
