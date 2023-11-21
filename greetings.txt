@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Hola
 Hello
 Ni Hao 
 Salut
 Sayonara
+=======
+Happy Birthday
+Shengri Kuaile
+Feliz Cumpleaños
+>>>>>>> conflict
